@@ -1,1 +1,1 @@
-All the models i have currently built during my honours (portfolio in progress).
+Some selected models i've made so far (portfolio in progress).
